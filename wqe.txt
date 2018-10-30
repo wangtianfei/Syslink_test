@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-qwe1234
-qwe67
-=======
-qwe123
-qwe64
->>>>>>> 56499dc93817075fda7e0f6f4da2df13fa3c5bff
